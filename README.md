@@ -1,4 +1,4 @@
-# Gloomy-Bear
+# Gloomy-Bear-Financial-Crawler
 
 #Description
 Design a Financical Information Web Crawler. After finishing the project, we can have a better understand about consumer-producer design pattern and the main function of Redis. These is the first step of whole project. In the next stage, we will use NLP method analysis the news and find the relationship between the news and stock price movement. 
