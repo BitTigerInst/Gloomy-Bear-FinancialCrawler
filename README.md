@@ -39,14 +39,19 @@ AppStore - Crawler
 
 [1]Video of introduction of AppStore 
 https://www.dropbox.com/s/2e9t9kzjs1giop5/20151222AppStore%20Introduction.mov?dl=0
+
 [2]PDF of introduction of AppStore 
 https://www.dropbox.com/s/bja7rfnm42vwtkj/20151222AppStore%20Introduction.pdf?dl=0
+
 [3]Video of crawler 
 https://www.dropbox.com/s/ncgxsqkb1w8sgxr/20151223AppStore%20Crawler.mov?dl=0
+
 [4]PDF for crawler 
 https://www.dropbox.com/s/bja7rfnm42vwtkj/20151222AppStore%20Introduction.pdf?dl=0
+
 [5]Video of crawler homework 
 https://www.dropbox.com/s/49lvwnatbx6bh6v/20160103_AppStore%20CrawlerAdvanced.mov?dl=0
+
 [6]PDF for crawler homework 
 https://www.dropbox.com/s/0ojejis71ebds3s/20160103_Appstore%20CrawlerAdvanced.pdf?dl=0
 
