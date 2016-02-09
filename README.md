@@ -33,3 +33,13 @@ Design a Financical Information Web Crawler. After finishing the project, we can
 2.Redis
 
 3.MySQL
+
+#resources
+AppStore - Crawler
+Video of introduction of AppStore https://www.dropbox.com/s/2e9t9kzjs1giop5/20151222AppStore%20Introduction.mov?dl=0
+PDF of introduction of AppStore https://www.dropbox.com/s/bja7rfnm42vwtkj/20151222AppStore%20Introduction.pdf?dl=0
+Video of crawler https://www.dropbox.com/s/ncgxsqkb1w8sgxr/20151223AppStore%20Crawler.mov?dl=0
+PDF for crawler https://www.dropbox.com/s/bja7rfnm42vwtkj/20151222AppStore%20Introduction.pdf?dl=0
+Video of crawler homework https://www.dropbox.com/s/49lvwnatbx6bh6v/20160103_AppStore%20CrawlerAdvanced.mov?dl=0
+PDF for crawler homework https://www.dropbox.com/s/0ojejis71ebds3s/20160103_Appstore%20CrawlerAdvanced.pdf?dl=0
+
