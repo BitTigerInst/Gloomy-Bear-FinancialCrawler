@@ -32,7 +32,9 @@ Design a Financical Information Web Crawler. After finishing the project, we can
 
 2.Redis
 
-3.MySQL
+3.MySQL/MongoDB
+
+4.Scrapy
 
 #resources
 AppStore - Crawler
