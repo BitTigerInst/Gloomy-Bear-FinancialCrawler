@@ -10,6 +10,11 @@
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 
 BOT_NAME = 'finance_crawler'
+ITEM_PIPELINES ={
+    'finance_crawler.pipelines.FinanceCrawlerPipeline':300,
+}
+
+COOKIES_ENABLED = False
 
 SPIDER_MODULES = ['finance_crawler.spiders']
 NEWSPIDER_MODULE = 'finance_crawler.spiders'
