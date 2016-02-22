@@ -13,6 +13,10 @@ BOT_NAME = 'finance_crawler'
 ITEM_PIPELINES ={
     'finance_crawler.pipelines.FinanceCrawlerPipeline':300,
 }
+MONGODB_SERVER = "Localhost"
+MONGODB_PORT = 27017
+MONGODB_DB = "retuers"
+MONGODB_COLLECTION = "breakingnews"
 
 COOKIES_ENABLED = False
 

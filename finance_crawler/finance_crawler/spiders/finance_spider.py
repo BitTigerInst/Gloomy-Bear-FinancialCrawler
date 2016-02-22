@@ -7,7 +7,7 @@ class RetuersSpider(scrapy.Spider):
     name = "retuers"
     allowed_domains = ["reuters.com"]
     url_base = "http://blogs.reuters.com/breakingviews/page/"  
-    start_urls=[url_base + str(x) + "/" for x in range(1,587)]
+    start_urls=[url_base + str(x) + "/" for x in range(1,20)]
     def parse(self, response):
         page = Selector(response)
         hrefs = page.xpath('.//h2/a/@href')
